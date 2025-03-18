@@ -5312,17 +5312,17 @@ header.style-3.sticky {
   }
 }
 header.style-3 .company-logo img {
-  width: 142px;
+  height: 34px;
 }
 
 @media (min-width: 992px) and (max-width: 1199px) {
   header.style-3 .company-logo img {
-    width: 130px;
+    height: 31px;
   }
 }
 @media (max-width: 576px) {
   header.style-3 .company-logo img {
-    width: 130px;
+    height: 31px;
   }
 }
 header.style-3 .company-logo .logo-dark {
